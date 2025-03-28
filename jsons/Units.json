@@ -9,7 +9,7 @@
 		"cost": 240,
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": [""],
 		"attackSound": "phasers"
 	}
 ]
