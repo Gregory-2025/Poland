@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Бронежилетчик",
-		"unitType": "gunpowder",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Польша",
 		"replaces": "Rifleman",
 		"movement": 2,
@@ -9,5 +9,6 @@
 		"cost": 240,
 		"requiredTech": "Rifling",
 		"requiredResource": "Iron"
+		"uniques": ["[+30]% Strength <vs Gunpowder> <when defending>"]
 	}
 ]
